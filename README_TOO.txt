@@ -1,3 +1,1 @@
-nothing special here... or is there?
-
-Maybe!
+Nothing special here... or is there?  No, there isn't.
